@@ -14,5 +14,7 @@ Simple Hello World with Kernel Module (Kernel Land)
 ## For Run Module :
   insmod hello_world.ko
   dmesg
+
+## For Remove Module :
   rmmod hello_world
   dmesg
